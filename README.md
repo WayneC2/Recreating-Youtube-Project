@@ -24,3 +24,13 @@ A front-end project recreating the look and feel of the YouTube homepage feed, i
 - **HTML5** – semantic layout and structure  
 - **CSS3** – Flexbox & Grid for responsive positioning  
 - *(No frameworks — pure vanilla front-end)*
+
+## 📂 Project Structure
+
+youtube-ui-clone/
+│
+├── index.html
+├── styles.css
+├── assets/
+│   └── thumbnails/
+└── preview.png
