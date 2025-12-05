@@ -27,7 +27,7 @@ A front-end project recreating the look and feel of the YouTube homepage feed, i
 
 ## 📂 Project Structure
 
-youtube-ui-clone/
+youtube-clone/
 │
 ├── index.html
 ├── styles.css
